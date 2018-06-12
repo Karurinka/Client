@@ -1,0 +1,5 @@
+
+fsquid:S1192"JDefine a constant instead of duplicating this literal "xxx2@yyy2" 3 times.(ç…çõ8Ø»’›¿,
+Ssquid:S1068"2Remove this unused "auctionService" private field.(¯èïïþÿÿÿÿ8Í–“›¿,
+rsquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(¤ËÜ«þÿÿÿÿ
+Ysquid:UselessImportCheck"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8Í„ö›¿,
